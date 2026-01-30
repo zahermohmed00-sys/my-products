@@ -4,15 +4,34 @@
     "price": "150 شيكل",
     "phone": "0567772374",
     "address": "التفاح - شارع يافا",
-    "description": "ساعة حديثة مع إضاءة ليلية ومنبه قوي",
-    "image": "https://drive.google.com/thumbnail?id=14NkSNrlvalpifu1LFLLoqYbnS-75K5xK&sz=w800"
+    "description": "ساعة حديثة مع إضاءة ليلية ومنبه قوي، شاشة كبيرة واضحة، تعمل بالبطارية أو الكهرباء",
+    "images": [
+      "https://drive.google.com/thumbnail?id=14NkSNrlvalpifu1LFLLoqYbnS-75K5xK&sz=w800",
+      "https://drive.google.com/thumbnail?id=1exampleID_for_second_angle&sz=w800",
+      "https://drive.google.com/thumbnail?id=1exampleID_for_side_view&sz=w800"
+    ]
   },
   {
-    "name": "سماعة بلوتوث",
+    "name": "سماعة بلوتوث لاسلكية",
     "price": "220 شيكل",
     "phone": "0599123456",
     "address": "غزة - الرمال",
-    "description": "جودة صوت عالية، بطارية طويلة",
-    "image": "https://drive.google.com/thumbnail?id=1AbCdEfGhIjKlMnOpQrStUvWxYz&sz=w800"
+    "description": "سماعة عالية الجودة، صوت نقي، بطارية تدوم 12 ساعة، مقاومة للماء IPX5",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1AbCdEfGhIjKlMnOpQrStUvWxYz&sz=w800",
+      "https://drive.google.com/thumbnail?id=1AnotherExampleID_earbuds_black&sz=w800",
+      "https://drive.google.com/thumbnail?id=1YetAnotherID_charging_case&sz=w800",
+      "https://drive.google.com/thumbnail?id=1FourthImageID_in_use&sz=w800"
+    ]
+  },
+  {
+    "name": "سوار ذكي (سمارت واتش)",
+    "price": "320 شيكل",
+    "phone": "0598765432",
+    "address": "رام الله - وسط البلد",
+    "description": "سوار رياضي يقيس ضربات القلب، الخطوات، النوم، متوافق مع أندرويد و iOS",
+    "images": [
+      "https://drive.google.com/thumbnail?id=1ExampleSmartwatchMain&sz=w800",
+    ]
   }
 ]
